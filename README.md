@@ -1,4 +1,6 @@
-# GLOBALIZE REDMI K20/Pro
+# CUSTOM WATERMARK
+
+![custom watermark](https://www.federicocalicchia.it/cwm.jpg)
 
 # What does this module do?
 This simple mod allows you to replace stock camera Watermark, with a custom one if look like rear camera style
