@@ -1,6 +1,6 @@
-# CUSTOM WATERMARK
+# CUSTOM CAMERA WATERMARK
 
-![custom watermark](https://www.federicocalicchia.it/cwm.jpg)
+![custom camera watermark](https://www.federicocalicchia.it/cwm.jpg)
 
 # What does this module do?
 This simple mod allows you to replace stock camera Watermark, with a custom one if look like rear camera style
