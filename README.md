@@ -22,6 +22,9 @@ ONLY MIUI 11 (10) BASED ROMS
 
 # Changelog
 
+### V 1.0.1
+
+Fixed syntax error & fixed installation
 
 ### V 1.0
 
