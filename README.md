@@ -1,9 +1,8 @@
 # CUSTOM CAMERA WATERMARK
 
-# IMPORTANT
 AFTER INSTALLING IT, CLEAN DATA & CACHE OF THE STOCK CAMERA APP
 
-![custom camera watermark](https://www.federicocalicchia.it/cwm.jpg)
+![custom camera watermark](https://i.ibb.co/TcCBCRN/cwm.jpg)
 
 # What does this module do?
 This simple mod allows you to replace stock camera Watermark, with a custom one if look like rear camera style
