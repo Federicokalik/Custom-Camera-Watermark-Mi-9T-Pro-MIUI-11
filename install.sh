@@ -161,19 +161,19 @@ set_permissions() {
 
 # You can add more functions to assist your custom script code
 
-# this function associates the device model to K20 Prp allowing the installation
+# this function associates the device model to Mi 9T Prp allowing the installation
 custom_variables() {
 if [ -f vendor/build.prop ]; then BUILDS="/system/build.prop vendor/build.prop"; else BUILDS="/system/build.prop"; fi
-  K20=$(grep -E "ro.product.device=Rapael|ro.product.device=Rapaelin" $BUILDS)
+  K20=$(grep -E "ro.product.system.device=raphael|ro.product.system.device=Raphaelin" $BUILDS)
 }
 
-# this function allows installation just on K20 Pro
+# this function allows installation just on Mi 9T Pro
 
 device_check() {
   if [ -n "$K20" ]; then
     break
   else
-    abort "Your device is not a Mi )T Pro or you are using a modified build.prop"
+    abort "Your device is not a Mi 9T Pro or you are using a modified build.prop"
   fi
 }
 
